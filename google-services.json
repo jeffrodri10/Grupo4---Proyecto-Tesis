@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "708784817669",
+    "project_id": "familiasfelices-7478f",
+    "storage_bucket": "familiasfelices-7478f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708784817669:android:96309db6ddfd9adc473e6c",
+        "android_client_info": {
+          "package_name": "com.proyecto.pruebafirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708784817669-4ojbldkkoo87bvmbkunccgenv5q3bhmt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.proyecto.pruebafirebase",
+            "certificate_hash": "2de2b7a5498c6b2860eab200b519a35f6a5bef3a"
+          }
+        },
+        {
+          "client_id": "708784817669-uutknngo9vgpmlevkms07ps2350o33be.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU79rTQDpfAqe2R0dJDe_kd7Um7-9viNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708784817669-uutknngo9vgpmlevkms07ps2350o33be.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
